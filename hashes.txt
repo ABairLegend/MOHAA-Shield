@@ -1,0 +1,1 @@
+Get-FileHash "مسار_اللعبة\mohaa.exe" -Algorithm MD5
