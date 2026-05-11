@@ -7,7 +7,7 @@ main/Pak2.pk3:1e2e77461a03f02a9878508a7e035c2f
 main/Pak3.pk3:08ae9d7ee5bb25bf9115fbe4bd071714
 main/Pak4.pk3:fff8f0f1e6f9c2a6f1fb0dc194c5822b
 main/Pak5.pk3:50acbda9a8634a1dd33154c88ee8b506
-main/pak6.pk3:172dd011e999bf9d74bf35b63f3b4a07
+main/pak6.pk3:230b78842357b85f9875e164f34d5a0b
 Mss32.dll:5e47d5d00c3e15b5cd8e76e499f0b12d
 3dfxgl.dll:4cfb7da7421ae4f7b919a1b9d30b5128
 drvmgt.dll:f3773f63425b3a4c921fe0aab96b1bfd
