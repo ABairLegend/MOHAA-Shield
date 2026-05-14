@@ -1,1 +1,10 @@
-
+cgame.dll:e6f3d4084a63331c0202c3c4ad89babc
+game.dll:19b425af586ebccebdf6df215126ac4e
+launch_openmohaa_base.exe:0645e03ae75b0c5f425525eafa2b6dd2
+launch_openmohaa_breakthrough.exe:23aa3230ae58d9cbabe080a108e9d1ea
+launch_openmohaa_spearhead.exe:e80aa854c4b87cc47937ced9576f4e14
+libcurl.dll:9ae68d618b5c9412f79bc1cccc1d286a
+omohaaded.exe:596628f1cc273dff9956b91740b6c05b
+OpenAL64.dll:9449f6ce4148d34eaa10b0832d38bf7b
+openmohaa.exe:3b2528bde7732636a6a97bc99dd13583
+SDL2.dll:6c96d0ecc8ab0167a8ffab87122fc91d
