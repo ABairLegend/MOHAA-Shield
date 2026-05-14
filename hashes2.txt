@@ -27,3 +27,5 @@ main/Pak5.pk3:50acbda9a8634a1dd33154c88ee8b506
 main/pak6.pk3:230b78842357b85f9875e164f34d5a0b
 main/zzz-antennaskin-official.pk3:c334c271d8947534eca24234d8164b36
 main/spicy-black.pk3:df397231caf6d7366d23e56efa68bd67
+main/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz-ab_admin-menu-2026.pk3:7551bc526ec14be30112f4593c625fc4
+
